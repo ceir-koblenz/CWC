@@ -1,6 +1,6 @@
 # CWC
 
-This repo contains a list of **CWC - Collaborative Work Codes** developed by the [CEIR - Center for Enterprise Information Research](https://ceir.de/).
+This repo contains a list of [**CWC - Collaborative Work Codes**](CWC.md) developed by the [CEIR - Center for Enterprise Information Research](https://ceir.de/).
 
 \
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
