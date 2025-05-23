@@ -1,5 +1,10 @@
 # CWC - Collaborative Work Codes
 
+## Overview
+- [High-Level CWC](#high-level-cwc)
+- [Low-Level CWC](#low-level-cwc)
+- [References](#references)
+
 ## High-Level CWC
 | # | Name | Description | Colour |
 | - | - | - | - |
@@ -34,3 +39,6 @@
 | 21 | Sharing files | Making files available to others (e.g. uploading a file or attaching a file to a wikipage) | `#994E95` ![#994E95](https://placehold.co/15x15/994E95/994E95.png) |
 | 22 | Sharing information | Making information available to others (e.g. creating a blog post) | `#666666` ![#666666](https://placehold.co/15x15/666666/666666.png) |
 | 23 | Writing meeting minutes | Creating a written record of matters discussed and decisions made in a meeting (e.g. as a wikipage) | `#AAAAAA` ![#AAAAAA](https://placehold.co/15x15/AAAAAA/AAAAAA.png) |
+
+## References
+- Schubert, P., Williams, S. P., Just, M., Alberts, J. S., & Bahles, S. (2025). ‘How Are Employees Using Collaboration Software to Support Their Work? A Method for Analyzing Digital Traces in Enterprise Collaboration Systems‘, *Hawaii International Conference on System Sciences*, vol. 8, pp. 2522–2531. https://doi.org/10125/109146
